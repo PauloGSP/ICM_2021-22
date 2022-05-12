@@ -1,12 +1,13 @@
 package com.example.aboutme
 
 import android.content.Context
-import android.databinding.DataBindingUtil
+
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import android.view.inputmethod.InputMethodManager
 import com.example.aboutme.databinding.ActivityMainBinding
+import android.databinding.DataBindingUtil
 
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding

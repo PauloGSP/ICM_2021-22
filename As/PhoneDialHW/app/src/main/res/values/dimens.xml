@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="newmargin">1dp</dimen>
+    <dimen name="Top_margin">60dp</dimen>
+    <dimen name="bot_margin">120dp</dimen>
+
+</resources>
