@@ -61,7 +61,6 @@ class MainActivity : AppCompatActivity() {
         binding = DataBindingUtil.setContentView(this, R.layout.activity_main)
         var text=""
         val tv = binding.textView7
-
         binding.deletebtn.setOnClickListener {
             tv.setText("")
             text=""
